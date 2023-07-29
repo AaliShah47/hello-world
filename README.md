@@ -3,7 +3,7 @@ Hi there!  My name is **Aali** **Shah**.
 This is my *very first* **code**!
 <html>
   <head>
-    <title> My First Code </title>
+   My First Code 
   </head>
   <body>
     <h1> Hello World! </h1>
